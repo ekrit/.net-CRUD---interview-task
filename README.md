@@ -6,4 +6,4 @@ Its a basic CRUD.
 
 I used a local database.
 
-Most of the functionalities that are mentioned I have implemented.
+Most of the functionalities that are mentioned have been implemented.
